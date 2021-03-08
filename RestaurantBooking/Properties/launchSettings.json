@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RestaurantBooking": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\\\Users\\\\manju\\\\OneDrive\\\\Documents\\\\input.txt"
+    }
+  }
+}
